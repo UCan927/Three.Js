@@ -6,6 +6,8 @@ function Strings( config ) {
 
 		en: {
 
+			'menubar/home': '🏠Home',
+
 			'menubar/file': 'File',
 			'menubar/file/new': 'New',
 			'menubar/file/import': 'Import',
@@ -69,6 +71,7 @@ function Strings( config ) {
 			'menubar/help/icons': 'Icon Pack',
 			'menubar/help/about': 'About',
 			'menubar/help/manual': 'Manual',
+			'menubar/help/docs': 'Docs',
 
 			'sidebar/animations': 'Animations',
 			'sidebar/animations/play': 'Play',
@@ -354,6 +357,8 @@ function Strings( config ) {
 
 		fr: {
 
+			'menubar/home': '🏠Page d\'accueil',
+
 			'menubar/file': 'Fichier',
 			'menubar/file/new': 'Nouveau',
 			'menubar/file/import': 'Importer',
@@ -417,6 +422,7 @@ function Strings( config ) {
 			'menubar/help/icons': 'Icon Pack',
 			'menubar/help/about': 'A propos',
 			'menubar/help/manual': 'Manual',
+			'menubar/help/docs': 'Document',
 
 			'sidebar/animations': 'Animations',
 			'sidebar/animations/play': 'Play',
@@ -700,6 +706,8 @@ function Strings( config ) {
 
 		zh: {
 
+			'menubar/home': '🏠主页',
+
 			'menubar/file': '文件',
 			'menubar/file/new': '新建',
 			'menubar/file/import': '导入',
@@ -763,6 +771,7 @@ function Strings( config ) {
 			'menubar/help/icons': '图标组件包',
 			'menubar/help/about': '关于',
 			'menubar/help/manual': '手册',
+			'menubar/help/docs': '文档',
 
 			'sidebar/animations': '动画',
 			'sidebar/animations/play': '播放',

@@ -66,6 +66,18 @@ function MenubarHelp( editor ) {
 	} );
 	options.add( option );
 
+	// Docs
+
+	option = new UIRow();
+	option.setClass( 'option' );
+	option.setTextContent( strings.getKey( 'menubar/help/docs' ) );
+	option.onClick( function () {
+
+		window.open( '/docs', '_blank' );
+
+	} );
+	options.add( option );
+
 	return container;
 
 }
